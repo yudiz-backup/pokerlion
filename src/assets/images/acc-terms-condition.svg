@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="60px" viewBox="0 0 30 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard</title>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="terms-condition" fill="#FFFFF0" fill-rule="nonzero">
+            <polygon id="Path" points="5.71428571 7.5 24.2857143 7.5 24.2857143 10.5 5.71428571 10.5"></polygon>
+            <polygon id="Path" points="5.71428571 13.5 24.2857143 13.5 24.2857143 16.5 5.71428571 16.5"></polygon>
+            <polygon id="Path" points="5.71428571 19.5 15.7142857 19.5 15.7142857 22.5 5.71428571 22.5"></polygon>
+            <path d="M30,0 L0,0 L0,30 L30,30 L30,0 Z M27.8571429,27.69225 L2.14285714,27.69225 L2.14285714,2.30769 L27.8571429,2.30769 L27.8571429,27.69225 Z" id="Shape"></path>
+        </g>
+        <g id="terms-condition-copy" transform="translate(0.000000, 30.000000)" fill="#FBC407" fill-rule="nonzero">
+            <polygon id="Path" points="5.71428571 7.5 24.2857143 7.5 24.2857143 10.5 5.71428571 10.5"></polygon>
+            <polygon id="Path" points="5.71428571 13.5 24.2857143 13.5 24.2857143 16.5 5.71428571 16.5"></polygon>
+            <polygon id="Path" points="5.71428571 19.5 15.7142857 19.5 15.7142857 22.5 5.71428571 22.5"></polygon>
+            <path d="M30,0 L0,0 L0,30 L30,30 L30,0 Z M27.8571429,27.69225 L2.14285714,27.69225 L2.14285714,2.30769 L27.8571429,2.30769 L27.8571429,27.69225 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
